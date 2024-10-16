@@ -1,4 +1,4 @@
-# MERN-Stack NoteBook
+# Full-Stack NoteBook
 
 <p>TThis is a fullstack notebook-app. You can add short notes consisting of title and description.</p>
 
